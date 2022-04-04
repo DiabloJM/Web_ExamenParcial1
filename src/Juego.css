@@ -1,0 +1,17 @@
+.Juego h1{
+    font-family:'Franklin Gothic Medium';
+    font-size: 80 px;
+    color: red;
+}
+
+.Contador{
+    font-family: Arial;
+    font-size:30 px;
+    color:green;
+}
+
+.Mensaje{
+    font-family: Arial;
+    font-size:60 px;
+    color: rgb(216, 18, 157);
+}
