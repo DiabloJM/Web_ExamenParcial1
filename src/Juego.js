@@ -65,16 +65,16 @@ class Juego extends Component {
 
                 <div>
                     <h2 className="Contador">{this.state.playerCounter}</h2>
-                    <button onClick={this.JugarPiedra}><img src={piedra}/></button>
-                    <button onClick={this.JugarPapel}><img src={papel}/></button>
-                    <button onClick={this.JugarTijera}><img src={tijera}/></button>
+                    <button onClick={this.JugarPiedra}><img src={piedra} alt="Piedra"/></button>
+                    <button onClick={this.JugarPapel}><img src={papel} alt="Papel"/></button>
+                    <button onClick={this.JugarTijera}><img src={tijera} alt="Tijera"/></button>
                 </div>
 
                 <h2 className="Mensaje">{this.state.message}</h2>
 
                 <div>
                     <h2 className="Contador">{this.state.enemyCounter}</h2>
-                    <img src= {newEnemyImage(this.state.enemyImage)} />
+                    <img src= {newEnemyImage(this.state.enemyImage)} alt="ImagenEnemigo"/>
                 </div>
             </div>
         );
