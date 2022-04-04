@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7afe4784.css",
+    "main.js": "/static/js/main.a2fbb234.js",
+    "static/js/787.d213d890.chunk.js": "/static/js/787.d213d890.chunk.js",
+    "static/media/tijera.png": "/static/media/tijera.9c6537fc607be7ba1ee7.png",
+    "static/media/piedra.png": "/static/media/piedra.1e49d811f23b6158533a.png",
+    "static/media/papel.png": "/static/media/papel.2f2778bcad2ff108e012.png",
+    "index.html": "/index.html",
+    "main.7afe4784.css.map": "/static/css/main.7afe4784.css.map",
+    "main.a2fbb234.js.map": "/static/js/main.a2fbb234.js.map",
+    "787.d213d890.chunk.js.map": "/static/js/787.d213d890.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7afe4784.css",
+    "static/js/main.a2fbb234.js"
+  ]
+}
